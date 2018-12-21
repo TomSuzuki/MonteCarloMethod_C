@@ -1,0 +1,1 @@
+gcc -o MonteCarlo.exe MonteCarlo.c
